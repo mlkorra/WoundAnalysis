@@ -2,7 +2,7 @@
 Wound Segmentation and Tissue Classification
 
 
-#Papers 
+# Papers 
 
 [Chronic Wound Monitoring - Suman Tewary](https://link.springer.com/article/10.1007/s10916-016-0679-y)
 
